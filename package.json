@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "This is my firts project on Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostyaGromov92/toDoListAngularJS.git"
+  },
+  "author": "Kostya Gromov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostyaGromov92/toDoListAngularJS/issues"
+  },
+  "homepage": "https://github.com/KostyaGromov92/toDoListAngularJS#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
